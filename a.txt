@@ -1,0 +1,8 @@
+Branching:
+------------
+--> To push the files from local repo to remote repo in child branch, we use this command..
+Syntax:- git push origin child_branch_name.
+
+-->To delete the branch on remote repo, we use this command.
+Syntax:-  git push origin --delete branch_name.
+
