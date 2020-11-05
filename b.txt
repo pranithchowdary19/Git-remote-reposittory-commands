@@ -1,0 +1,18 @@
+Remote repository operations:
+------------------------------------
+
+-->First we have to connect both local and remote repositories.
+
+-->Before adding files to remote repo we have to create a new repo in remote repository, to do that we go to remote repository. Eg: github
+
+
+1.  git remote add origin https://github.com/pranithchowdary19/project14.git
+
+2. Origin is name of the remote repo.
+
+3. To check added correctly or not we use--> git remote -v command.
+
+
+4. The command for sending files from local repo to repo for the first time, we use
+   Eg:-   git push -u origin master.
+
